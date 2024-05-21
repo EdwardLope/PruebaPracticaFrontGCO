@@ -8,7 +8,7 @@ function App() {
     <main>
       <h2>Formulario de Proveedor</h2>
       
-      <form action="ruta_de_tu_backend" method="POST" encType="multipart/form-data">
+      <form action="PersonasBD/v1/proveedor" method="POST" encType="multipart/form-data">
         <div>
           <label htmlFor="tipoPersona">Tipo de Persona:</label>
           <select id="tipoPersona" name="tipoPersona" required>
