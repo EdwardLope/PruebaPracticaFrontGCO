@@ -18,7 +18,7 @@ function App() {
         </div>
 
         <div>
-          <input placeholder='Nit o Rut' type="text" id="nitOrRut" name="nitOrRut" required />
+          <input placeholder='Nit o Rut' type='number' id="nitOrRut" name="nitOrRut" required />
         </div>
 
         <div>
@@ -30,7 +30,7 @@ function App() {
         </div>
 
         <div>
-          <input placeholder='Telefono' type="tel" id="telefono" name="telefono" required />
+          <input placeholder='Telefono' type="number" id="telefono" name="telefono" required />
         </div>
 
         <div>
